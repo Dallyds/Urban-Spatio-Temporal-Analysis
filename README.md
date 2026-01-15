@@ -104,19 +104,19 @@ GitHub – Version control and project hosting
 **📁 Repository Structure**
 
 Urban-Spatio-Temporal-Analysis/ <br>
-│
-├── Data/
-│ └── Urban_Mobility_Dataset.xlsx
-│
-├── PowerBI/
-│ └── Urban_Spatio_Temporal_Analysis.pbix
-│
-├── Screenshots/
-│ └── Dashboard_Images/
-│
-├── Documentation/
-│ └── Documentation.md
-│
+│ <br>
+├── Data/ <br>
+│ └── Urban_Mobility_Dataset.xlsx <br>
+│<br>
+├── PowerBI/ <br>
+│ └── Urban_Spatio_Temporal_Analysis.pbix <br>
+│<br>
+├── Screenshots/ <br>
+│ └── Dashboard_Images/ <br>
+│ <br>
+├── Documentation/ <br>
+│ └── Documentation.md <br>
+│ <br>
 └── README.md <br>
 **🔍 Key Insights**
 
