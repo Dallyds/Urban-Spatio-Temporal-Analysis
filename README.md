@@ -1,45 +1,160 @@
-# Urban Spatio-Temporal Analysis
+🚦 Urban Spatio-Temporal Traffic Analysis
+📌 Project Overview
 
-## 📌 Project Overview
-This project analyzes urban transportation data to understand travel patterns across time and space. 
-The analysis focuses on trip demand, distance, speed, congestion, traffic flow, weather conditions, 
-and land use to derive actionable insights for urban mobility planning.
+This project presents a spatio-temporal analysis of urban mobility and traffic patterns using trip-level, environmental, and congestion-related data. The goal is to understand how time, location, traffic conditions, weather, and land use influence travel behavior and congestion in urban environments.
 
-## 🗂 Dataset
-The dataset is provided in Excel format and includes trip-level attributes such as:
-- Trip date and time
-- Distance and travel duration
-- Passenger count
-- Traffic speed and congestion levels
-- Weather and environmental conditions
-- Land use and location coordinates
+The analysis is implemented using Power BI, providing interactive dashboards for effective decision-making and insights.
 
-📁 Dataset file: `data/urban_trip_data.xlsx`
+🎯 Project Objectives
 
-## 📊 Power BI Dashboard
-An interactive Power BI dashboard was developed to visualize:
-- Trip demand and usage trends
-- Distance and speed analysis
-- Revenue and environmental impact
-- Traffic conditions and location-based insights
+Analyze trip demand and usage trends over time
 
-📁 Power BI file: `powerbi/Urban_Spatio_Temporal_Analysis.pbix`
+Examine distance, speed, and travel efficiency
 
-## 🖼 Dashboard Screenshots
-Since Power BI files cannot be viewed directly on GitHub, dashboard screenshots are provided for preview.
+Study the impact of traffic, weather, and land use on congestion
 
-📁 Location: `dashboards/screenshots/`
+Identify high-congestion zones and peak travel periods
 
-## 🛠 Tools Used
-- Microsoft Excel
-- Power BI
-- Data Visualization Techniques
+Compare current vs predicted future congestion levels
 
-## 🎯 Key Insights
-- Identified peak travel hours and high-demand days
-- Analyzed congestion levels across different land-use types
-- Evaluated the impact of traffic and weather on travel speed
-- Observed spatial travel behavior using geographic data
+📊 Dashboard Pages
 
-## 📂 Repository Structure
-See `repo_structure.md` for detailed folder explanations.
+The Power BI report consists of the following dashboards:
+
+Trip Demand and Usage
+
+Trip volume trends
+
+Passenger distribution
+
+Travel time patterns
+
+Distance and Speed
+
+Trip distance analysis
+
+Average speed vs congestion
+
+Road type performance
+
+Revenue and Environmental Impact
+
+Fare amount analysis
+
+Distance vs revenue trends
+
+Traffic impact indicators
+
+Traffic and Location
+
+Start and end location mapping
+
+Congestion hotspots
+
+Vehicle count analysis
+
+Summary Dashboard
+
+Key KPIs
+
+Integrated insights across all dimensions
+
+🗂 Dataset Overview
+
+The dataset contains trip-level spatio-temporal data, including:
+
+Trip timing and duration
+
+Distance and fare details
+
+Geographic coordinates (latitude & longitude)
+
+Traffic speed, congestion level, and vehicle count
+
+Weather conditions and environmental attributes
+
+Land use and road type classifications
+
+📄 A detailed column-wise explanation is available in the documentation.
+
+📈 Key KPIs
+
+Total Trips
+
+Average Travel Time
+
+Average Speed
+
+Total & Average Fare
+
+Vehicle Count
+
+Congestion Level Distribution
+
+🛠 Tools & Technologies
+
+Microsoft Excel – Data preparation
+
+Power BI – Data modeling, DAX, and visualization
+
+Power Query – Data transformation
+
+GitHub – Version control and project hosting
+
+📁 Repository Structure
+Urban-Spatio-Temporal-Analysis/
+│
+├── Data/
+│   └── Urban_Mobility_Dataset.xlsx
+│
+├── PowerBI/
+│   └── Urban_Spatio_Temporal_Analysis.pbix
+│
+├── Screenshots/
+│   └── Dashboard_Images
+│
+├── Documentation/
+│   └── Documentation.md
+│
+└── README.md
+
+🔍 Key Insights
+
+Weekdays show higher trip demand and congestion
+
+Commercial land-use areas experience increased traffic density
+
+Weather conditions significantly affect average travel speed
+
+Future congestion indicators show upward congestion trends
+
+📄 Detailed Documentation
+
+For a complete explanation of:
+
+Dataset columns
+
+Dashboard logic
+
+Measures and KPIs
+
+Analytical insights
+
+👉 Refer to:
+Documentation/Documentation.md
+
+✅ How to Use This Project
+
+Download the dataset from the Data folder
+
+Open the Power BI file (.pbix)
+
+Refresh the data if required
+
+Use slicers and filters to explore insights
+
+⭐ Author
+
+Dally DS
+Data Analyst
+Data Analyst | Power BI | SQL | Excel
