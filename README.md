@@ -1,11 +1,11 @@
 🚦 Urban Spatio-Temporal Traffic Analysis
-📌 Project Overview
+##📌 Project Overview
 
 This project presents a spatio-temporal analysis of urban mobility and traffic patterns using trip-level, environmental, and congestion-related data. The goal is to understand how time, location, traffic conditions, weather, and land use influence travel behavior and congestion in urban environments.
 
 The analysis is implemented using Power BI, providing interactive dashboards for effective decision-making and insights.
 
-🎯 Project Objectives
+##🎯 Project Objectives
 
 Analyze trip demand and usage trends over time
 
@@ -17,7 +17,7 @@ Identify high-congestion zones and peak travel periods
 
 Compare current vs predicted future congestion levels
 
-📊 Dashboard Pages
+##📊 Dashboard Pages
 
 The Power BI report consists of the following dashboards:
 
@@ -55,7 +55,7 @@ Vehicle count analysis
 
 Summary Dashboard
 
-Key KPIs
+ ##Key KPIs
 
 Integrated insights across all dimensions
 
@@ -77,7 +77,7 @@ Land use and road type classifications
 
 📄 A detailed column-wise explanation is available in the documentation.
 
-📈 Key KPIs
+##📈 Key KPIs
 
 Total Trips
 
@@ -91,7 +91,7 @@ Vehicle Count
 
 Congestion Level Distribution
 
-🛠 Tools & Technologies
+##🛠 Tools & Technologies
 
 Microsoft Excel – Data preparation
 
@@ -118,7 +118,7 @@ Urban-Spatio-Temporal-Analysis/
 │ └── Documentation.md
 │
 └── README.md
-🔍 Key Insights
+##🔍 Key Insights
 
 Weekdays show higher trip demand and congestion
 
@@ -128,7 +128,7 @@ Weather conditions significantly affect average travel speed
 
 Future congestion indicators show upward congestion trends
 
-📄 Detailed Documentation
+##📄 Detailed Documentation
 
 For a complete explanation of:
 
@@ -143,7 +143,7 @@ Analytical insights
 👉 Refer to:
 Documentation/Documentation.md
 
-✅ How to Use This Project
+##✅ How to Use This Project
 
 Download the dataset from the Data folder
 
@@ -153,7 +153,7 @@ Refresh the data if required
 
 Use slicers and filters to explore insights
 
-⭐ Author
+##⭐ Author
 
 Dally DS
 Data Analyst
