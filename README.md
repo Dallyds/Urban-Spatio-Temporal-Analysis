@@ -101,23 +101,23 @@ Power Query – Data transformation
 
 GitHub – Version control and project hosting
 
-📁 Repository Structure
+## 📁 Repository Structure
+
 Urban-Spatio-Temporal-Analysis/
 │
 ├── Data/
-│   └── Urban_Mobility_Dataset.xlsx
+│ └── Urban_Mobility_Dataset.xlsx
 │
 ├── PowerBI/
-│   └── Urban_Spatio_Temporal_Analysis.pbix
+│ └── Urban_Spatio_Temporal_Analysis.pbix
 │
 ├── Screenshots/
-│   └── Dashboard_Images
+│ └── Dashboard_Images/
 │
 ├── Documentation/
-│   └── Documentation.md
+│ └── Documentation.md
 │
 └── README.md
-
 🔍 Key Insights
 
 Weekdays show higher trip demand and congestion
