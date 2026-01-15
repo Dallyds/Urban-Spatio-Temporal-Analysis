@@ -153,8 +153,8 @@ Refresh the data if required
 
 Use slicers and filters to explore insights
 
-**⭐ Author**
+**⭐ Author** <br>
 
-Dally DS
-Data Analyst
+Dally DS <br>
+Data Analyst <br>
 Data Analyst | Power BI |Excel
