@@ -21,7 +21,7 @@ Compare current vs predicted future congestion levels
 
 **The Power BI report consists of the following dashboards:**
 
-Trip Demand and Usage
+**1)Trip Demand and Usage**
 
 Trip volume trends
 
@@ -29,7 +29,7 @@ Passenger distribution
 
 Travel time patterns
 
-Distance and Speed
+**2)Distance and Speed**
 
 Trip distance analysis
 
@@ -37,7 +37,7 @@ Average speed vs congestion
 
 Road type performance
 
-Revenue and Environmental Impact
+**3)Revenue and Environmental Impact**
 
 Fare amount analysis
 
@@ -45,7 +45,7 @@ Distance vs revenue trends
 
 Traffic impact indicators
 
-Traffic and Location
+**4)Traffic and Location**
 
 Start and end location mapping
 
@@ -53,13 +53,13 @@ Congestion hotspots
 
 Vehicle count analysis
 
-Summary Dashboard
+**5)Summary Dashboard**
 
  ##Key KPIs
 
 Integrated insights across all dimensions
 
-**🗂 Dataset Overview**
+## **🗂 Dataset Overview**
 
 The dataset contains trip-level spatio-temporal data, including:
 
@@ -77,7 +77,7 @@ Land use and road type classifications
 
 📄 A detailed column-wise explanation is available in the documentation.
 
-**📈 Key KPIs
+**📈 Key KPIs**
 
 Total Trips
 
@@ -91,7 +91,7 @@ Vehicle Count
 
 Congestion Level Distribution
 
-**🛠 Tools & Technologies
+**🛠 Tools & Technologies**
 
 Microsoft Excel – Data preparation
 
@@ -101,9 +101,9 @@ Power Query – Data transformation
 
 GitHub – Version control and project hosting
 
-**📁 Repository Structure
+**📁 Repository Structure**
 
-Urban-Spatio-Temporal-Analysis/
+Urban-Spatio-Temporal-Analysis/<br>
 │
 ├── Data/
 │ └── Urban_Mobility_Dataset.xlsx
@@ -117,8 +117,8 @@ Urban-Spatio-Temporal-Analysis/
 ├── Documentation/
 │ └── Documentation.md
 │
-└── README.md
-**🔍 Key Insights
+└── README.md <br>
+**🔍 Key Insights**
 
 Weekdays show higher trip demand and congestion
 
@@ -128,7 +128,7 @@ Weather conditions significantly affect average travel speed
 
 Future congestion indicators show upward congestion trends
 
-**📄 Detailed Documentation
+**📄 Detailed Documentation**
 
 For a complete explanation of:
 
@@ -140,10 +140,10 @@ Measures and KPIs
 
 Analytical insights
 
-👉 Refer to:
+**👉 Refer to:**
 Documentation/Documentation.md
 
-**✅ How to Use This Project
+**✅ How to Use This Project**
 
 Download the dataset from the Data folder
 
@@ -153,8 +153,8 @@ Refresh the data if required
 
 Use slicers and filters to explore insights
 
-**⭐ Author
+**⭐ Author**
 
 Dally DS
 Data Analyst
-Data Analyst | Power BI | SQL | Excel
+Data Analyst | Power BI |Excel
