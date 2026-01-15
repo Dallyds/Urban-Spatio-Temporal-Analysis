@@ -155,6 +155,6 @@ Use slicers and filters to explore insights
 
 **⭐ Author** <br>
 
-**Dally DS ** <br>
+** Dally DS ** <br>
 Data Analyst <br>
 Data Analyst | Power BI |Excel
