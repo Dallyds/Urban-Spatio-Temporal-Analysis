@@ -72,8 +72,8 @@ ________________________________________
 •	Average Travel Time<br>
 •	Vehicle Count<br>
 •	Congestion Level Distribution<br>
-________________________________________
-##*🛠 Tools & Technologies Used*<br>
+________________________ ________________
+## *🛠 Tools & Technologies Used*<br>
 •	Excel – Data cleaning & preprocessing<br>
 •	Power BI – Data modeling, DAX measures & dashboards<br>
 •	GitHub – Project version control & documentation<br>
@@ -91,28 +91,29 @@ ________________________________________
 
 
 
-## *📁 Repository Structure*
-Urban-Spatio-Temporal-Analysis/
-│
-├── Data/
-│   └── urban_mobility_dataset.xlsx
-│
-├── Power BI File/
-│   └── Urban_Mobility_Dashboard.pbix
-│
-├── Screen Shot(Dashboard)/
-│   └── Dashboard Images
-│
-├── Documentation/
-│   └── Project_Documentation.md
-│
-└── README.md
+## *📁 Repository Structure*<br>
+Urban-Spatio-Temporal-Analysis/<br>
+│<br>
+├── Data/<br>
+│   └── urban_mobility_dataset.xlsx<br>
+│<br>
+├── Power BI File/<br>
+│   └── Urban_Mobility_Dashboard.pbix<br>
+│<br>
+├── Screen Shot(Dashboard)/<br>
+│   └── Dashboard Images<br>
+│<br>
+├── Documentation/<br>
+│   └── Project_Documentation.md<br>
+│<br>
+└── README.md<br>
 ________________________________________
-## *✅ How to Use*
-1.	Download the dataset from the Data folder
-2.	Open the Power BI (.pbix) file
-3.	Refresh data if needed
-4.	Explore dashboards using filters & slicers
+## *✅ How to Use*<br>
+1.	Download the dataset from the Data folder<br>
+2.	Open the Power BI (.pbix) file<br>
+3.	Refresh data if needed<br>
+4.	Explore dashboards using filters & slicers<br>
+
 
 
 
