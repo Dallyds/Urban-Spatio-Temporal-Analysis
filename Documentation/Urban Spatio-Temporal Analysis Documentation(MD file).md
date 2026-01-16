@@ -4,7 +4,7 @@ This project focuses on analyzing urban mobility patterns using spatio-temporal 
 The analysis is visualized using Power BI dashboards to provide actionable insights for city planners, traffic authorities, and transportation analysts.
 ________________________________________
 ## *🎯 Objectives*
-•	Analyze trip patterns across time and locations
+•	Analyze trip patterns across time and locations<br>
 •	Study the impact of traffic, weather, and land use on travel
 •	Identify high congestion zones and peak periods
 •	Compare current vs future congestion levels
@@ -113,6 +113,7 @@ ________________________________________
 2.	Open the Power BI (.pbix) file
 3.	Refresh data if needed
 4.	Explore dashboards using filters & slicers
+
 
 
 
