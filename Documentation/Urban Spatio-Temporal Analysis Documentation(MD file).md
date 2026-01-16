@@ -48,7 +48,7 @@ ________________________________________
 •	Total trips<br>
 •	Average travel time<br>
 •	Trip distribution by day of week<br>
-•	Peak vs off-peak analysisv
+•	Peak vs off-peak analysis<br>
 **2️⃣ Traffic & Congestion Analysis**<br>
 •	Congestion level by road type<br>
 •	Traffic flow status comparison<br>
@@ -113,6 +113,7 @@ ________________________________________
 2.	Open the Power BI (.pbix) file<br>
 3.	Refresh data if needed<br>
 4.	Explore dashboards using filters & slicers<br>
+
 
 
 
