@@ -3,14 +3,14 @@
 This project focuses on analyzing urban mobility patterns using spatio-temporal data. The dataset captures trip details, traffic conditions, weather, land use, and congestion levels to understand traffic behavior, travel efficiency, and future congestion trends.
 The analysis is visualized using Power BI dashboards to provide actionable insights for city planners, traffic authorities, and transportation analysts.
 ________________________________________
-## **🎯 Objectives **
+## *🎯 Objectives*
 •	Analyze trip patterns across time and locations
 •	Study the impact of traffic, weather, and land use on travel
 •	Identify high congestion zones and peak periods
 •	Compare current vs future congestion levels
 •	Support data-driven urban traffic planning
 ________________________________________
-## **📂 Dataset Description **
+## *📂 Dataset Description*
 The dataset contains trip-level and environmental attributes.
 🧾 Column-wise Explanation
 Column Name	Description
@@ -43,8 +43,8 @@ Travel Time (hours)	Total travel duration
 Future_Congestion_Level	Predicted congestion level
 Synthetic_Satellite_View	Simulated satellite-based traffic view
 ________________________________________
-## ** 📊 Dashboard Structure (Power BI) **
-** 1️⃣ Trip & Time Analysis **
+## *📊 Dashboard Structure (Power BI)*
+**1️⃣ Trip & Time Analysis**
 •	Total trips
 •	Average travel time
 •	Trip distribution by day of week
@@ -65,7 +65,7 @@ ________________________________________
 •	Current vs future congestion levels
 •	Trend patterns for traffic growth
 ________________________________________
-## **📈 Key KPIs**
+## *📈 Key KPIs*
 •	Total Trips
 •	Average Fare
 •	Average Speed
@@ -73,12 +73,12 @@ ________________________________________
 •	Vehicle Count
 •	Congestion Level Distribution
 ________________________________________
-##**🛠 Tools & Technologies Used**
+##*🛠 Tools & Technologies Used*
 •	Excel – Data cleaning & preprocessing
 •	Power BI – Data modeling, DAX measures & dashboards
 •	GitHub – Project version control & documentation
 ________________________________________
-## **📌 Insights Generated**
+## *📌 Insights Generated*
 •	Peak congestion occurs during weekday peak hours
 •	Commercial areas show higher congestion
 •	Weather conditions significantly impact travel speed
@@ -91,7 +91,7 @@ ________________________________________
 
 
 
-## **📁 Repository Structure**
+## *📁 Repository Structure*
 Urban-Spatio-Temporal-Analysis/
 │
 ├── Data/
@@ -108,11 +108,12 @@ Urban-Spatio-Temporal-Analysis/
 │
 └── README.md
 ________________________________________
-## **✅ How to Use **
+## *✅ How to Use*
 1.	Download the dataset from the Data folder
 2.	Open the Power BI (.pbix) file
 3.	Refresh data if needed
 4.	Explore dashboards using filters & slicers
+
 
 
 
