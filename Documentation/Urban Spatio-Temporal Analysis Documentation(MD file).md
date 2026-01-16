@@ -1,4 +1,4 @@
-# **🚦 Urban Spatio-Temporal Analysis of Urban Mobility **
+# **Urban Spatio-Temporal Analysis of Urban Mobility **
 ## **📌 Project Overview **
 This project focuses on analyzing urban mobility patterns using spatio-temporal data. The dataset captures trip details, traffic conditions, weather, land use, and congestion levels to understand traffic behavior, travel efficiency, and future congestion trends.
 The analysis is visualized using Power BI dashboards to provide actionable insights for city planners, traffic authorities, and transportation analysts.
@@ -113,5 +113,6 @@ ________________________________________
 2.	Open the Power BI (.pbix) file
 3.	Refresh data if needed
 4.	Explore dashboards using filters & slicers
+
 
 
