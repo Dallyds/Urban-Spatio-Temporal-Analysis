@@ -5,16 +5,16 @@ The analysis is visualized using Power BI dashboards to provide actionable insig
 ________________________________________
 ## *🎯 Objectives*
 •	Analyze trip patterns across time and locations<br>
-•	Study the impact of traffic, weather, and land use on travel
-•	Identify high congestion zones and peak periods
-•	Compare current vs future congestion levels
-•	Support data-driven urban traffic planning
+•	Study the impact of traffic, weather, and land use on travel<br>
+•	Identify high congestion zones and peak periods<br>
+•	Compare current vs future congestion levels<br>
+•	Support data-driven urban traffic planning<br>
 ________________________________________
-## *📂 Dataset Description*
-The dataset contains trip-level and environmental attributes.
-🧾 Column-wise Explanation
-Column Name	Description
-Trip_ID	Unique identifier for each trip
+## *📂 Dataset Description*<br>
+The dataset contains trip-level and environmental attributes.<br>
+*🧾 Column-wise Explanation*<br>
+Column Name	Description<br>
+Trip_ID	....> Unique identifier for each trip<br>
 Trip Start Date	Date when the trip started
 Trip date	Trip date (standardized date field)
 Trip_Start Time	Trip starting time
@@ -113,6 +113,7 @@ ________________________________________
 2.	Open the Power BI (.pbix) file
 3.	Refresh data if needed
 4.	Explore dashboards using filters & slicers
+
 
 
 
