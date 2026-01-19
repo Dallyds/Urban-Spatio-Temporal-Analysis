@@ -158,3 +158,7 @@ Use slicers and filters to explore insights
 **Dally DS** <br>
 Data Analyst <br>
 Data Analyst | Power BI |Excel
+# DASHBOARD
+<img width="1145" height="663" alt="image" src="https://github.com/user-attachments/assets/3f7fc994-6c39-412a-8ccf-5b7b2b8b9fd8" />
+
+
