@@ -160,7 +160,11 @@ Data Analyst <br>
 Data Analyst | Power BI |Excel
 # DASHBOARDS
 <img width="1142" height="663" alt="image" src="https://github.com/user-attachments/assets/c0ef1af8-c9fd-4698-866d-652bdc0bc9de" />
-
 <img width="1145" height="663" alt="image" src="https://github.com/user-attachments/assets/3f7fc994-6c39-412a-8ccf-5b7b2b8b9fd8" />
+<img width="1313" height="741" alt="image" src="https://github.com/user-attachments/assets/99d4418f-bb65-4048-a636-88b33a694646" />
+<img width="1315" height="746" alt="image" src="https://github.com/user-attachments/assets/575a2486-56ba-43a5-980a-ae5e93d33a13" />
+<img width="1313" height="746" alt="image" src="https://github.com/user-attachments/assets/b1858419-c5ce-4433-84b7-0d2cbc0a3870" />
+<img width="1317" height="747" alt="image" src="https://github.com/user-attachments/assets/0054ae51-862a-42c1-b7b1-4bdea4069a2a" />
+
 
 
